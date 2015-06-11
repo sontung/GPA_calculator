@@ -1,0 +1,9 @@
+Start a new season. Then you can
+enter your grade and credit for 
+your subject in Grade and Credit blanks.
+The Subject blank is optional, you can use it
+for clarification, maybe. After you finish entering
+1 subject, press Submit. The program will take your 
+data if your inputs make sense. After you've done 
+entering everything, press Done. The program will 
+then take you to the result screen. Simple!
